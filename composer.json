@@ -9,7 +9,7 @@
     "array-methods",
     "array-access"
   ],
-  "license": "New BSD",
+  "license": "MIT",
   "authors": [
     {
       "name": "Anton Zinovyev",
